@@ -25,16 +25,16 @@ aside:
 ### Meeting Times
 
 ## Class/Lab Info
-* Lecture (Jepson G04)
-  * Tue 10:30AM - 11:45AM
-  * Thr 10:30AM - 11:45AM
-* Lab (Jespson G04)
-  * Fri 9:00AM - 9:50AM
+* Lecture (Gottwald E305)
+  * Tue 3:00PM - 4:15PM
+  * Thr 3:00PM - 4:15PM
+* Lab (Jepson G02)
+  * Fri 1:30PM - 2:20PM
 
 ### Course Staff
 - Dr. David Balash - Instructor
-- Jade Mawn - Lab Assistant
-- Toni Wu - Grader
+- Will O’Halloran - Lab Assistant
+- Owen Schardt - Grader
 
 
 ## Course Details 

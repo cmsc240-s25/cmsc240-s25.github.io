@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMSC 240 Software Systems Development - Fall 2024
+title: CMSC 240 Software Systems Development - Spring 2025
 ---
 ## Teaching Staff
 <div class="wrapper" markdown="0">
@@ -23,11 +23,11 @@ title: CMSC 240 Software Systems Development - Fall 2024
 
 
 ## Class/Lab Info
-* Lecture (Jepson G04)
-  * Tue 10:30AM - 11:45AM
-  * Thr 10:30AM - 11:45AM
-* Lab (Jepson G04)
-  * Fri 9:00AM - 9:50AM
+* Lecture (Gottwald E305)
+  * Tue 3:00PM - 4:15PM
+  * Thr 3:00PM - 4:15PM
+* Lab (Jepson G02)
+  * Fri 1:30PM - 2:20PM
 
 
 
@@ -36,5 +36,5 @@ title: CMSC 240 Software Systems Development - Fall 2024
 * [Syllabus](/syllabus.html)
 * [Class Schedule](/schedule.html)
 * [Guides](/guides)
-* [Slack Workspace](https://cmsc240-f24.slack.com) -- for questions and discussion
+* [Slack Workspace](https://cmsc240-s25.slack.com) -- for questions and discussion
 
