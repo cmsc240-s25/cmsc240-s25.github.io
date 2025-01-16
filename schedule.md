@@ -11,7 +11,7 @@ title: Schedule
 
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
 | :--- | :---                                       | :---                                          | :---                                             |
-| 1    | Jan 14: <br />Read Text: Chapter 2<br />Read [Unix Tutorial](https://users.cs.duke.edu/~alvy/courses/unixtut/): Intro, T1, T2, T3<br />Slides: [Introduction](lectures/01-Introduction.pdf) <br /> Complete the [VSCode and SSH Guide](guides/vscode-ssh.md) (Due Thr Jan 16)            | Jan 16:                                       | Jan 17:                  |
+| 1    | Jan 14: <br />Read Text: Chapter 2<br />Read [Unix Tutorial](https://users.cs.duke.edu/~alvy/courses/unixtut/): Intro, T1, T2, T3<br />Slides: [Introduction](lectures/01-Introduction.pdf) <br /> Complete the [VSCode and SSH Guide](guides/vscode-ssh.md) (Due Thr Jan 16)            | Jan 16: <br /> Slides: [C++ Basics](lectures/02-Language-Basics.pdf)<br /> Module 1: [Hello C++](modules/module1.md) (Due Thu Sept 5) <br />Read [Unix Tutorial](https://users.cs.duke.edu/~alvy/courses/unixtut/): T4, T5, T6                                      | Jan 17:                  |
 | 2    | Jan  21:    | Jan  23:      | Jan  24:          |
 | 3    | Jan 28:     | Jan 30:       | Jan 31:           |
 | 4    | Feb 4:      | Feb 6: <br />**Quiz 1**           | Feb 7:           |
