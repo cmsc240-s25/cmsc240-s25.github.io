@@ -6,7 +6,7 @@ permalink: module/2
 # Module 2: Functions, Strings, and Command Line Arguments
 
 * First read this page then start coding module with the GitHub classroom link below.
-* Github Classroom Link: [https://classroom.github.com/a/ArSgN6td](https://classroom.github.com/a/ArSgN6td)
+* Github Classroom Link: [https://classroom.github.com/a/G5t9UIXd](https://classroom.github.com/a/G5t9UIXd)
 
 
 ## Exercise 1: <a class="anchor" id="exercise_1"></a>
