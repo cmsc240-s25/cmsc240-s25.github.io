@@ -6,7 +6,7 @@ permalink: lab/2
 # Lab 2: File I/O
 
 * First read this page then start coding the lab with the GitHub classroom link below.
-* Github Classroom Link: [https://classroom.github.com/a/Ltotk6a5](https://classroom.github.com/a/Ltotk6a5)
+* Github Classroom Link: [https://classroom.github.com/a/MW0_V1nK](https://classroom.github.com/a/MW0_V1nK)
 
 
 ## Personal Diary Management System
