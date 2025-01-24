@@ -14,7 +14,7 @@ permalink: lab/3
 
 * Put the answers to the questions below in the README.md file in the GitHub repository for this lab.
 
-* Github Classroom Link: [https://classroom.github.com/a/1XKHahNG](https://classroom.github.com/a/1XKHahNG)
+* Github Classroom Link: [https://classroom.github.com/a/MW0_V1nK](https://classroom.github.com/a/MW0_V1nK)
 
 
 
