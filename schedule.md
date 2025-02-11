@@ -15,7 +15,7 @@ title: Schedule
 | 2    | Jan  21: <br />Read Text: Chapter 3<br /> Slides: [Strings and Functions](lectures/03-Strings-Functions.pdf) <br/>Module 2: [Functions, Strings, and Command-Line Arguments](modules/module2.md) (Due Tue Jan 28)   | Jan  23: <br /> Slides: [Collections and File I/O](lectures/04-Collections-FileIO.pdf) <br/>Module 3: [Arrays, Vectors, and File I/O](modules/module3.md) (Due Thr Jan 30)     | Jan  24:  <br /> Lab 2: [File I/O](lab/2) (Due Thr Jan 30)        |
 | 3    | Jan 28: <br />Read Text: Chapter 17 <br />Slides: [Pointers and Memory](lectures/05-Memory-Pointers.pdf)  <br/>Module 4: [Introduction to Pointers](modules/module4.md) (Due Tue Feb 4)      | Jan 30: <br />Slides: [References and Heap](lectures/06-References-Heap.pdf)      | Jan 31: <br />Lab 3: [Pointers and References](lab/3) (Due Thr Feb 6)         |
 | 4    | Feb 4: <br />Read Text: Chapter 5 <br />Slides: [Debugging](lectures/07-Debugging.pdf) <br />[Quiz Review](lectures/quiz1-review.md)     | Feb 6: <br />Slides: [Errors and Exception Handling](lectures/08-Error-Handling.pdf)<br />**Quiz 1**          | Feb 7: <br />Lab 4: [Debugging and Exception Handling](labs/lab4.md)  (Due Thr Feb 13)          |
-| 5    | Feb 11:     | Feb 13:       | Feb 14:           |
+| 5    | Feb 11: **Snow Day!**  <br /> No Class    | Feb 13:       | Feb 14:           |
 | 6    | Feb 18:     | Feb 20:       | Feb 21:           |
 | 7    | Feb 25:     | Feb 27: <br /> **Quiz 2**         | Feb 28:          |
 | 8    | Mar  4:     | Mar 6:         | Mar 7:           |
