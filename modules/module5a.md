@@ -1,12 +1,12 @@
 ---
 layout: default
-permalink: module/41
+permalink: module/5a
 ---
 
-# Module 4: Classes - Abstraction and Encapsulation
+# Module 5a: Classes - Abstraction and Encapsulation
 
 * First read this page then start coding module with the GitHub classroom link below.
-* Github Classroom Link: [https://classroom.github.com/a/QPPg5wo4](https://classroom.github.com/a/QPPg5wo4)
+* Github Classroom Link: [https://classroom.github.com/a/\_Gn8M7rJ](https://classroom.github.com/a/\_Gn8M7rJ)
 
 
 ## Class implementation:
