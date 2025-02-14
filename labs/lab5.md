@@ -9,7 +9,7 @@ permalink: /lab/5
 
 ### Github Link
 
-Accept this assignment here: [https://classroom.github.com/a/jjC-I3mv](https://classroom.github.com/a/jjC-I3mv)
+Accept this assignment here: [https://classroom.github.com/a/f1R0zHsy](https://classroom.github.com/a/f1R0zHsy)
 
 
 ### Running/Compile your program
