@@ -6,7 +6,7 @@ permalink: module/5b
 # Module 5b: Classes - Enum, Static Members, Operator Overloading
 
 * First read this page then start coding module with the GitHub classroom link below.
-* Github Classroom Link: [https://classroom.github.com/a/DpBd8qw1](https://classroom.github.com/a/DpBd8qw1)
+* Github Classroom Link: [https://classroom.github.com/a/tH7W3yZR](https://classroom.github.com/a/tH7W3yZR)
 
 
 ## Class implementation:
