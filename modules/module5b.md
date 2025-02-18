@@ -11,7 +11,7 @@ permalink: module/5b
 
 ## Class implementation:
 
-Start with the `class` that you wrote in [module 4](module/4). Add all of the code from module 4 to this module 5 GitHub repository. Then edit the c++ code to complete the following exercises.
+Start with the `class` that you wrote in [module 5a](module/5a). Add all of the code from module 5a to this module 5b GitHub repository. Then edit the c++ code to complete the following exercises.
 
 ### Exercise 1 - Enumeration (`enum`)
 * An `enum` is a very simple user-defined type
