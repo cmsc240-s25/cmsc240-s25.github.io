@@ -12,7 +12,7 @@ permalink: lab/7
 
 * As you work through the lab, answer the questions in the `README.md` file. Enter your answers directly in the `README.md` file.
 
-* Github Classroom Link: [https://classroom.github.com/a/2OiAvqag](https://classroom.github.com/a/2OiAvqag)
+* Github Classroom Link: [https://classroom.github.com/a/GSTi926-](https://classroom.github.com/a/GSTi926-)
 
 
 ### Objective
