@@ -3,7 +3,7 @@ layout: default
 permalink: /lectures/11
 ---
 
-# Lecture 11 -  Scope, Friends, Destructors, Composition, and UML
+## Scope, Friends, Destructors, Composition, and UML
 
 [Live Code Link](https://prod.liveshare.vsengsaas.visualstudio.com/join?3154495132EE7C9213A5E4847EA9CFE8D8A2)
 

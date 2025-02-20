@@ -3,7 +3,7 @@ layout: default
 permalink: /lecture/20
 ---
 
-# What is an API? 
+## What is an API? 
 
 Imagine you're at a restaurant. You have a menu with a list of dishes you can order, along with a description of each dish. When you decide what you want, you tell the server, and the server goes to the kitchen to tell the cooks what to make. The cooks prepare your meal, and the server brings it back to you.
 

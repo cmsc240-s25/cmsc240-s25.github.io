@@ -3,7 +3,7 @@ layout: default
 permalink: /lecture/16
 ---
 
-# Lecture 16: Regular Expressions in C++
+## Regular Expressions in C++
 
 ### Objective
 Equip students with an understanding of regular expressions and their practical application in C++ programming, enabling them to proficiently utilize regular expressions for pattern matching, text manipulation, and data extraction in real-world programming scenarios.

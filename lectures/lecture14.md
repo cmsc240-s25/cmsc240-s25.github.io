@@ -3,7 +3,7 @@ layout: default
 permalink: /lectures/14
 ---
 
-# Lecture 14: Memory Leaks and Memory Violations
+## Memory Leaks and Memory Violations
 
 ### Objective
 Gain an understanding of memory leaks and memory violations found in C++ programming. Explore the root causes, consequences, and preventive measures for these issues. Introduce the dynamic analysis tool Valgrind used in detecting, diagnosing, and addressing memory-related problems.
