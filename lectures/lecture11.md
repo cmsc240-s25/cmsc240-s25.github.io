@@ -5,7 +5,7 @@ permalink: /lectures/11
 
 ## Scope, Friends, Destructors, Composition, and UML
 
-[Live Code Link]()
+[Live Code Link](https://prod.liveshare.vsengsaas.visualstudio.com/join?A3D624704643007D24F3BCEE80C02142E593)
 
 ### Objectives
 
