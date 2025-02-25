@@ -497,7 +497,7 @@ References:
 4. Add a private `secret` `string` to the Diary class.
 5. Add a `friend` function to the Diary class called `readSecret()`.
 6. In the `TestFriends.cpp` define the function `readSecret()`.
-7. In the `main()` functino test the `readSecret()` function with various `cout` statements. 
+7. In the `main()` function test the `readSecret()` function with various `cout` statements. 
 
 
 ## Destructors <a class="anchor" id="destructors"></a>
