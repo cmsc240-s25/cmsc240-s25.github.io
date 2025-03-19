@@ -20,7 +20,7 @@ title: Schedule
 | 7    | Feb 25: <br />Lecture Notes: [Scope, Friends, Destructors, Composition, and UML](lectures/11)<br /> Module 6: [Scope, Friends, Destructors, Composition, and UML](https://classroom.github.com/a/KjkNZ4NZ)(Due Tue Mar 4)    | Feb 27: <br />Slides: [Inheritance, Polymorphism, Virtual Functions, Abstract Classes](lectures/12-Inheritance-Polymorphism.pdf) <br />[Live Code]() | Feb 28: <br />Lab 6: [Inheritance and Polymorphism](lab/6) (Due Thr Mar 6)         |
 | 8    | Mar  4: <br />[Quiz Review](lectures/quiz2-review.md) <br /> **Quiz 2**    | Mar 6:  <br /> Lecture Notes: [Regular Expressions in C++](lecture/16) <br /> Module 8: [Regular Expressions](https://classroom.github.com/a/8y1nKcxe) (Due Thr Mar 20)       | Mar 7: <br /> Lab 8: [Regular Expressions in C++ and Linux](labs/lab8.md) (Due Thr Mar 20)          |
 | 9    | Mar 11:  **Spring Break**   | Mar 13:  **Spring Break**     | Mar 14:   **Spring Break**        |
-| 10   | Mar 18: <br />Slides: [Make and Makefiles](lectures/15-Make-Makefiles.pdf)  <br /> Module 7: [Build Automation with Make](modules/module7.md) (Due Tue Mar 25)    | Mar 20:       | Mar 21:           |
+| 10   | Mar 18: <br />Slides: [Make and Makefiles](lectures/15-Make-Makefiles.pdf)  <br /> Module 7: [Build Automation with Make](modules/module7.md) (Due Tue Mar 25)    | Mar 20: <br /> Slides: [C++ Templates](lectures/18-Templates.pdf) <br /> Module 10: [Templates](modules/module10.md) (Due Thr Mar 27)      | Mar 21:           |
 | 11   | Mar 25:     | Mar 27: <br />**Quiz 3**          | Mar 28:          |
 | 12   | Apr 1:      | Apr 3:        | Apr 4:            |
 | 13   | Apr 8:      | Apr 10:       | Apr 11:           |
