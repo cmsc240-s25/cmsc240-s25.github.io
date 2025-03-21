@@ -10,7 +10,7 @@ permalink: lab/9
 
 * Use the code in the GitHub repository for this lab.
 
-* Github Classroom Link: [https://classroom.github.com/a/0UDEuU_A](https://classroom.github.com/a/0UDEuU_A)
+* Github Classroom Link: [https://classroom.github.com/a/nLo-kCme](https://classroom.github.com/a/nLo-kCme)
 
 ## Objective
 Develop an understanding of __C++ templates__, focusing on their application for code reusability and flexibility.
