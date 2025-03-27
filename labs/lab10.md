@@ -11,42 +11,42 @@ permalink: lab/10
 
 ## Teams
 
-__Generated with__ [Random Team Generator](https://www.randomlists.com/team-generator?grp=5&items=Georgios%0AJohn+Paul%0ANyel%0AIsleta%0AEvan%0AJonni%0ABrian%0ADarina%0AWill%0ATamanna%0ASamuel%0AVarun%0AEthan%0AOwen%0AAlena%0ABrooke%0ALaeticia%0AJason%0AJeff)
+__Generated with__ [Random Team Generator](https://www.randomlists.com/team-generator?grp=5&items=Jordan%0ACait%0AAllison%0AMeklet%0AMelvin%0AAndrey%0AFinn%0AWill%0AChristian%0ASakura%0AMudit%0AMichael%0AAdele%0ALena%0AXiaoran%0ASydney%0ABritney%0AFlora%0AYixuan)
 
 ### Group 1
-- Tamanna
-- Evan
-- Jonni
-- Nyel
+- Michael
+- Andrey
+- Will
+- Lena
 
 ### Group 2
-- Laeticia
-- Isleta
-- Samuel
-- Varun
+- Jordan
+- Adele
+- Flora
+- Allison
 
 ### Group 3
-- Jason
-- John Paul
-- Georgios
-- Brian
+- Melvin
+- Christian
+- Britney
+- Meklet
 
 ### Group 4
-- Ethan
-- Will
-- Owen
-- Alena
+- Cait
+- Yixuan
+- Sydney
+- Mudit
 
 ### Group 5
-- Brooke
-- Jeff
-- Darina
+- Sakura
+- Tina
+- Finn
 
 * Note: This is a group lab. __Name your group using a combination of the first names of the group members.__ 
 
 * Use the code in the GitHub repository for this lab.
 
-* Github Classroom Link: [https://classroom.github.com/a/_gafeSzd](https://classroom.github.com/a/_gafeSzd)
+* Github Classroom Link: [https://classroom.github.com/a/YTg-vo9L](https://classroom.github.com/a/YTg-vo9L)
 
 ## Overview
 In this lab, you will work in groups of three (there may be one or two group of four), experimenting in the use of git (for your local version of a repository) and GitHub (where, via git, the three of you will combine your work). You will ultimately implement a working solution to a collection of C++ classes/programs that includes:

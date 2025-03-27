@@ -13,7 +13,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Instructions
 
-1. Complete all of the work in a Group GitHub repository: [https://classroom.github.com/a/T6dA0SMo](https://classroom.github.com/a/T6dA0SMo)
+1. Complete all of the work in a Group GitHub repository: []()
 2. __Name your group using a combination of the first names of the group members.__ 
 
 ## Team Formation
@@ -28,7 +28,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 1: Team Creation and Proposal
 
-### Due:  Friday November 9th in Lab
+### Due:  Friday April 4th in Lab
 
 #### Task: 
 * Each team will brainstorm and propose an idea for a REST API. 
@@ -44,7 +44,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 2: Design Document Creation
 
-### Due: Friday November 16th in Lab
+### Due: Friday April 11th in Lab
 
 * Create a detailed design document for the proposed API. 
 * The document should include:
@@ -63,7 +63,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 3: Implementation
 
-### Due: Friday December 6th in Lab
+### Due: Tuesday April 22nd
 
 * Implement the API in C++ using the Crow framework.
 * Develop the RESTful API endpoints as per the design document.
@@ -74,8 +74,9 @@ This project presents an opportunity for teams to creatively explore API develop
 3. The implementation shall demonstrate a minimum of one __instance of inheritance__. 
 4. The implementation shall demonstrate a minimum of one __instance of templates__.
 5. The implementation shall __save the resources to a file__ after the Crow app is stopped.
-6. The implementation shall __read the resources from a file__ before the Crow app is started.  
-7. The implementation shall __include a Makefile__ with an all, clean, executable, and individual targets for each cpp file. 
+6. The implementation shall __read the resources from a file__ before the Crow app is started. 
+7. __All serialization and deserialization__ should be done with the `nlohmann` json library. 
+8. The implementation shall __include a Makefile__ with an all, clean, executable, and individual targets for each cpp file. 
 
 
 #### Deliverable:
@@ -85,7 +86,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 4: Unit Testing
 
-### Due: Friday December 6th in Lab
+### Due: Friday April 25th
 
 * Develop a suite of unit tests using a testing framework.
 * __Testing Scope__: Cover all critical functionalities and endpoints.

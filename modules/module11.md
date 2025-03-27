@@ -6,7 +6,7 @@ permalink: module/11
 # Module 11: REST API
 
 * First read this page then start the module with the GitHub classroom link below.
-* Github Classroom Link: [https://classroom.github.com/a/QI8tHHwn](https://classroom.github.com/a/QI8tHHwn)
+* Github Classroom Link: [https://classroom.github.com/a/K73E59_E](https://classroom.github.com/a/K73E59_E)
 
 ## Resources
 
@@ -14,9 +14,9 @@ permalink: module/11
 
 ## Setup
 
-Install the __Thunder Client__ Lightweight Rest API Client for VS Code extension.
+Install the __EchoAPI__ Lightweight Rest API Client for VS Code extension.
 
-![ThunderClient](../images/ThunderClient.png "Thunder Client")
+![EchoAPI](../images/EchoAPI.png "EchoAPI")
 
 ## Exercise 1: 
 
