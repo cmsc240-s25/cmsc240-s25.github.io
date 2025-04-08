@@ -17,5 +17,5 @@ title: Resources
 * [Regex101](https://regex101.com/)
 * [Guide to Markdown](https://www.markdownguide.org/cheat-sheet/) 
 * [Lecture Code Examples](https://github.com/cmsc240-s24/lecture-code-examples)
-
+* [Project Design Example: Pizzeria](design.md)
 
