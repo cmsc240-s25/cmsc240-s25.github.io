@@ -6,7 +6,7 @@ permalink: module/13
 # Module 13: REST API - Part 3
 
 * First read this page then start the module with the GitHub classroom link below.
-* Github Classroom Link: [https://classroom.github.com/a/tRFgzp-J](https://classroom.github.com/a/tRFgzp-J)
+* Github Classroom Link: [https://classroom.github.com/a/pkXTKRWR](https://classroom.github.com/a/pkXTKRWR)
 
 ## Resources
 
