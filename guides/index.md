@@ -9,6 +9,7 @@ title: Guides
 * [SSH with authorized_keys](/guides/authorized_keys)
 * [VSCode and SSH](/guides/vscode-ssh)
 * [VSCode and Github Assignments](/guides/vscode-git)
+* [Storage Space Fix](/guides/storage)
 
 
 
