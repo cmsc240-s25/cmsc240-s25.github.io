@@ -15,9 +15,9 @@ permalink: module/15
 * [doctest tutorial](https://github.com/doctest/doctest/blob/ae7a13539fb71f270b87eb2e874fbac80bc8dda2/doc/markdown/tutorial.md)
 
 ## Setup
-In order to view the generated documentation in HTML, install the __Live Preview__ webpage previewer for VS Code extension.
+In order to view the generated documentation in HTML, install the __Live Server__ webpage viewer for VS Code extension.
 
-![LivePreview](../images/LivePreview.png "Live Preview")
+![LiveServer](../images/LiveServer.png "Live Server")
 
 
 ## Exercise 1 - Document generation with doxygen: 
@@ -33,6 +33,7 @@ In order to view the generated documentation in HTML, install the __Live Preview
 5. Also add `docs` target as a dependency to the `all` target. 
 6. Run the `Makefile` to build the documentation.
 7. View the documentation and verify your new comments are included.
+8. To view the documentation right click on the file `index.html` in the `docs/html` directory, then select "Open with Live Server"
 
 
 ## Exercise 2 - Static Analysis with cppcheck:
