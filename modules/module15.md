@@ -6,7 +6,7 @@ permalink: module/15
 # Module 15: Build Pipelines 
 
 * First read this page then start the module with the GitHub classroom link below.
-* Github Classroom Link: [https://classroom.github.com/a/qtCUCWSO](https://classroom.github.com/a/qtCUCWSO)
+* Github Classroom Link: [https://classroom.github.com/a/DU-TRTcZ](https://classroom.github.com/a/DU-TRTcZ)
 
 ## Resources
 
