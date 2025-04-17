@@ -63,7 +63,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 3: Implementation
 
-### Due: Tuesday April 22nd
+### Due: Friday April 25th
 
 * Implement the API in C++ using the Crow framework.
 * Develop the RESTful API endpoints as per the design document.
